@@ -17,20 +17,22 @@
 
 ## 🧑‍💻 About Me
 
-```ts
-const abdirahman = {
-  name:       "Abdirahman Sharmarke",
-  role:       "Full-Stack & Mobile Engineer",
-  company:    "Astaan",
-  location:   "Somalia, Mogadishu 🇸🇴",
-  mobile:     ["React Native (Expo)", "Flutter", "Swift", "Kotlin"],
-  web:        ["Next.js", "React", "Node.js", "Express"],
-  cloud:      ["AWS", "GCP", "Supabase", "Firebase"],
-  database:   ["PostgreSQL", "Redis", "MongoDB"],
-  currentlyBuilding: "Multi-platform apps across mobile, web & cloud",
-  funFact:    "I ship iOS, Android & Web from one codebase 🚀",
-};
-```
+<div align="center">
+
+| | |
+|:---:|:---|
+| 👨‍💻 **Name** | Abdirahman Sharmarke |
+| 💼 **Role** | Full-Stack & Mobile Engineer |
+| 🏢 **Company** | Astaan |
+| 📍 **Location** | Somalia, Mogadishu 🇸🇴 |
+| 📱 **Mobile** | React Native · Flutter · Swift · Kotlin |
+| 🌐 **Web** | Next.js · React · Node.js · Express |
+| ☁️ **Cloud** | AWS · GCP · Supabase · Firebase |
+| 🗄️ **Database** | PostgreSQL · Redis · MongoDB |
+| 🔨 **Building** | Multi-platform apps across mobile, web & cloud |
+| ⚡ **Fun Fact** | I ship iOS, Android & Web from one codebase 🚀 |
+
+</div>
 
 ---
 
