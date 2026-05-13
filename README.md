@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Abdirahman%20Sharmarke&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Cloud%20Engineer&descAlignY=58&descSize=20&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe4e01,100:ff8c00&height=220&section=header&text=Abdirahman%20Sharmarke&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Cloud%20Engineer&descAlignY=58&descSize=20&descColor=ffffff" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+Engineer+%E2%80%94+iOS+%26+Android+%F0%9F%93%B1;React+Native+%7C+Flutter+%7C+Swift+%7C+Kotlin;Next.js+%7C+Node.js+%7C+PostgreSQL;Cloud+%E2%80%94+AWS+%7C+GCP+%7C+Supabase+%E2%98%81%EF%B8%8F;Building+at+Astaan+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=fe4e01&center=true&vCenter=true&random=false&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+Engineer+%E2%80%94+iOS+%26+Android+%F0%9F%93%B1;React+Native+%7C+Flutter+%7C+Swift+%7C+Kotlin;Next.js+%7C+Node.js+%7C+PostgreSQL;Cloud+%E2%80%94+AWS+%7C+GCP+%7C+Supabase+%E2%98%81%EF%B8%8F;Building+at+Astaan+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdirahman-sharmarke&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/abdirahman-sharmarke)
-[![GitHub followers](https://img.shields.io/github/followers/abdirahman-sharmarke?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/abdirahman-sharmarke)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdirahman-sharmarke&color=fe4e01&style=for-the-badge&label=Profile+Views)](https://github.com/abdirahman-sharmarke)
+[![GitHub followers](https://img.shields.io/github/followers/abdirahman-sharmarke?style=for-the-badge&color=white&labelColor=fe4e01&label=Followers)](https://github.com/abdirahman-sharmarke)
 
 </div>
 
@@ -19,18 +19,31 @@
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 👨‍💻 **Name** | Abdirahman Sharmarke |
-| 💼 **Role** | Full-Stack & Mobile Engineer |
-| 🏢 **Company** | Astaan |
-| 📍 **Location** | Somalia, Mogadishu 🇸🇴 |
-| 📱 **Mobile** | React Native · Flutter · Swift · Kotlin |
-| 🌐 **Web** | Next.js · React · Node.js · Express |
-| ☁️ **Cloud** | AWS · GCP · Supabase · Firebase |
-| 🗄️ **Database** | PostgreSQL · Redis · MongoDB |
-| 🔨 **Building** | Multi-platform apps across mobile, web & cloud |
-| ⚡ **Fun Fact** | I ship iOS, Android & Web from one codebase 🚀 |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=fe4e01&center=true&vCenter=true&width=350&lines=Welcome+to+my+profile!+%F0%9F%91%8B;I+build+things+that+scale+%F0%9F%9A%80;iOS+%7C+Android+%7C+Web+%7C+Cloud+%E2%98%81%EF%B8%8F" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Name-Abdirahman%20Sharmarke-fe4e01?style=flat-square&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Role-Full--Stack%20%26%20Mobile%20Engineer-fe4e01?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Company-Astaan-fe4e01?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Location-Somalia%2C%20Mogadishu%20%F0%9F%87%B8%F0%9F%87%B4-fe4e01?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Email-abdirhmansharmarke%40gmail.com-fe4e01?style=flat-square&logo=gmail&logoColor=white" />
+    </td>
+    <td align="left" width="50%">
+      <h4>🔥 What I Do</h4>
+      <ul>
+        <li>📱 Build mobile apps — iOS & Android</li>
+        <li>🌐 Build web apps with Next.js & React</li>
+        <li>☁️ Deploy on AWS, GCP & Supabase</li>
+        <li>🗄️ Design databases with PostgreSQL</li>
+        <li>🚀 Ship production-ready systems at Astaan</li>
+      </ul>
+      <br/>
+      <blockquote>⚡ I ship iOS, Android & Web from one codebase</blockquote>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -71,10 +84,10 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdirahman-sharmarke&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=abdirahman-sharmarke&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdirahman-sharmarke&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=fe4e01&icon_color=fe4e01&text_color=ffffff" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=abdirahman-sharmarke&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=fe4e01&ring=fe4e01&fire=ff8c00&currStreakLabel=fe4e01&sideLabels=ffffff&dates=ffffff" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdirahman-sharmarke&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=8" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdirahman-sharmarke&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=fe4e01&text_color=ffffff&layout=compact&langs_count=8" />
 
 </div>
 
@@ -83,7 +96,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdirahman-sharmarke&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdirahman-sharmarke&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 ---
@@ -103,5 +116,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,100:fe4e01&height=120&section=footer" />
 </div>
