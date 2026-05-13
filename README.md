@@ -84,10 +84,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdirahman-sharmarke&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=fe4e01&icon_color=fe4e01&text_color=ffffff" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=abdirahman-sharmarke&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=fe4e01&ring=fe4e01&fire=ff8c00&currStreakLabel=fe4e01&sideLabels=ffffff&dates=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdirahman-sharmarke&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=fe4e01&icon_color=fe4e01&text_color=ffffff&bg_color=0d1117" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=abdirahman-sharmarke&theme=dark&hide_border=true&background=0d1117&stroke=fe4e01&ring=fe4e01&fire=ff8c00&currStreakLabel=fe4e01&sideLabels=ffffff&dates=ffffff" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdirahman-sharmarke&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=fe4e01&text_color=ffffff&layout=compact&langs_count=8" />
+<br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdirahman-sharmarke&theme=dark&hide_border=true&bg_color=0d1117&title_color=fe4e01&text_color=ffffff&layout=compact&langs_count=8" />
 
 </div>
 
