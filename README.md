@@ -46,27 +46,7 @@
 
 <div align="center">
 
-### 🧩 Tech Stack
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin&theme=dark" />
-
-**Web**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,tailwind&theme=dark" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,nginx&theme=dark" />
-
-**Data**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" />
+<img src="https://raw.githubusercontent.com/abdirahman-sharmarke/abdirahman-sharmarke/main/assets/tech-stack-card.svg" width="100%" alt="Tech Stack" />
 
 </div>
 
@@ -76,12 +56,10 @@
 
 ### 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdirahman-sharmarke&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=FE4E01&icon_color=FE4E01&text_color=e6e6e6&bg_color=0a0a0a&ring_color=FE4E01" />
+<img width="49%" src="https://raw.githubusercontent.com/abdirahman-sharmarke/abdirahman-sharmarke/main/assets/stats-card.svg" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=abdirahman-sharmarke&theme=dark&hide_border=true&background=0a0a0a&stroke=FE4E01&ring=FE4E01&fire=FFB700&currStreakLabel=FE4E01&sideLabels=e6e6e6&dates=999999" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdirahman-sharmarke&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FE4E01&text_color=e6e6e6&layout=compact&langs_count=8" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdirahman-sharmarke&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=e6e6e6&line=FE4E01&point=FFB700" />
+<img width="100%" src="https://raw.githubusercontent.com/abdirahman-sharmarke/abdirahman-sharmarke/main/assets/top-langs-card.svg" />
 
 </div>
 
@@ -96,16 +74,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdirahman-sharmarke/abdirahman-sharmarke/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/abdirahman-sharmarke/abdirahman-sharmarke/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdirahman-sharmarke&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
 
 </div>
 

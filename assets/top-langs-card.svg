@@ -1,0 +1,39 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FE4E01"/>
+      <stop offset="100%" stop-color="#FFB700"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="218" rx="20" fill="#0a0a0a" stroke="url(#borderGrad4)" stroke-width="2"/>
+
+  <text x="64" y="52" font-family="Consolas, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#FE4E01">LANGUAGES</text>
+  <text x="64" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#ffffff">🗂️ Most Used Languages</text>
+
+  <!-- stacked bar: JS 43.4% / TS 43.2% / SCSS 6.9% / CSS 5.5% / Other 1.0% of 1072px -->
+  <g>
+    <rect x="64" y="118" width="1072" height="16" rx="8" fill="#161616"/>
+    <path d="M64,118 h465 v16 h-465 a8,8 0 0 1 -8,-8 v0 a8,8 0 0 1 8,-8 z" fill="#f1e05a"/>
+    <rect x="529" y="118" width="463" height="16" fill="#3178c6"/>
+    <rect x="992" y="118" width="74" height="16" fill="#c6538c"/>
+    <rect x="1066" y="118" width="59" height="16" fill="#663399"/>
+    <path d="M1125,118 h11 a8,8 0 0 1 8,8 v0 a8,8 0 0 1 -8,8 h-11 z" fill="#555555"/>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#e6e6e6">
+    <circle cx="70" cy="172" r="6" fill="#f1e05a"/>
+    <text x="84" y="177">JavaScript <tspan fill="#888888">43.4%</tspan></text>
+
+    <circle cx="270" cy="172" r="6" fill="#3178c6"/>
+    <text x="284" y="177">TypeScript <tspan fill="#888888">43.2%</tspan></text>
+
+    <circle cx="470" cy="172" r="6" fill="#c6538c"/>
+    <text x="484" y="177">SCSS <tspan fill="#888888">6.9%</tspan></text>
+
+    <circle cx="620" cy="172" r="6" fill="#663399"/>
+    <text x="634" y="177">CSS <tspan fill="#888888">5.5%</tspan></text>
+
+    <circle cx="760" cy="172" r="6" fill="#555555"/>
+    <text x="774" y="177">Other <tspan fill="#888888">1.0%</tspan></text>
+  </g>
+</svg>

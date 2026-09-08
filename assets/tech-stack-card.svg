@@ -1,0 +1,88 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FE4E01"/>
+      <stop offset="100%" stop-color="#FFB700"/>
+    </linearGradient>
+    <filter id="glowBlur2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <clipPath id="cardClip2">
+      <rect x="1" y="1" width="1198" height="558" rx="31"/>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="558" rx="31" fill="#0a0a0a" stroke="url(#borderGrad2)" stroke-width="2"/>
+
+  <g clip-path="url(#cardClip2)">
+    <circle cx="40" cy="20" r="200" fill="#FE4E01" opacity="0.10" filter="url(#glowBlur2)"/>
+    <circle cx="1180" cy="540" r="200" fill="#FFB700" opacity="0.08" filter="url(#glowBlur2)"/>
+  </g>
+
+  <text x="64" y="66" font-family="Consolas, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#FE4E01">SKILLS</text>
+  <text x="64" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#ffffff">🧩 Tech Stack</text>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="15" font-weight="600">
+
+    <!-- Row 1: Mobile -->
+    <text x="64" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#FE4E01">MOBILE</text>
+    <rect x="270" y="150" width="154" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="347" y="176" fill="#ffffff" text-anchor="middle">React Native</text>
+    <rect x="438" y="150" width="80" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="478" y="176" fill="#ffffff" text-anchor="middle">Expo</text>
+    <rect x="532" y="150" width="106" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="585" y="176" fill="#ffffff" text-anchor="middle">Flutter</text>
+    <rect x="652" y="150" width="90" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="697" y="176" fill="#ffffff" text-anchor="middle">Swift</text>
+    <rect x="756" y="150" width="100" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="806" y="176" fill="#ffffff" text-anchor="middle">Kotlin</text>
+
+    <!-- Row 2: Web -->
+    <text x="64" y="262" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#FE4E01">WEB</text>
+    <rect x="270" y="236" width="106" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="323" y="262" fill="#ffffff" text-anchor="middle">Next.js</text>
+    <rect x="390" y="236" width="90" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="435" y="262" fill="#ffffff" text-anchor="middle">React</text>
+    <rect x="494" y="236" width="135" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="561" y="262" fill="#ffffff" text-anchor="middle">TypeScript</text>
+    <rect x="643" y="236" width="106" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="696" y="262" fill="#ffffff" text-anchor="middle">Node.js</text>
+    <rect x="763" y="236" width="145" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="835" y="262" fill="#ffffff" text-anchor="middle">TailwindCSS</text>
+
+    <!-- Row 3: Cloud & DevOps -->
+    <text x="64" y="348" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#FE4E01">CLOUD</text>
+    <rect x="270" y="322" width="70" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="305" y="348" fill="#ffffff" text-anchor="middle">AWS</text>
+    <rect x="354" y="322" width="70" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="389" y="348" fill="#ffffff" text-anchor="middle">GCP</text>
+    <rect x="438" y="322" width="118" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="497" y="348" fill="#ffffff" text-anchor="middle">Firebase</text>
+    <rect x="570" y="322" width="100" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="620" y="348" fill="#ffffff" text-anchor="middle">Docker</text>
+    <rect x="684" y="322" width="90" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="729" y="348" fill="#ffffff" text-anchor="middle">Nginx</text>
+
+    <!-- Row 4: Data -->
+    <text x="64" y="434" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#FE4E01">DATA</text>
+    <rect x="270" y="408" width="135" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="337" y="434" fill="#ffffff" text-anchor="middle">PostgreSQL</text>
+    <rect x="419" y="408" width="90" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="464" y="434" fill="#ffffff" text-anchor="middle">Redis</text>
+    <rect x="523" y="408" width="106" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="576" y="434" fill="#ffffff" text-anchor="middle">MongoDB</text>
+
+    <!-- Row 5: Tools -->
+    <text x="64" y="520" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#FE4E01">TOOLS</text>
+    <rect x="270" y="494" width="70" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="305" y="520" fill="#ffffff" text-anchor="middle">Git</text>
+    <rect x="354" y="494" width="100" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="404" y="520" fill="#ffffff" text-anchor="middle">GitHub</text>
+    <rect x="468" y="494" width="90" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="513" y="520" fill="#ffffff" text-anchor="middle">Figma</text>
+    <rect x="572" y="494" width="106" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="625" y="520" fill="#ffffff" text-anchor="middle">VS Code</text>
+    <rect x="692" y="494" width="106" height="40" rx="20" fill="#161616" stroke="#333333"/>
+    <text x="745" y="520" fill="#ffffff" text-anchor="middle">Postman</text>
+  </g>
+</svg>
