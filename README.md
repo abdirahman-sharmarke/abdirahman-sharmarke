@@ -34,39 +34,13 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-### ⚡ What I do
+<img src="https://raw.githubusercontent.com/abdirahman-sharmarke/abdirahman-sharmarke/main/assets/about-card.svg" width="100%" alt="What I do & Currently" />
 
-I design, build, and ship end-to-end products — native mobile apps, modern web platforms, and the cloud infrastructure behind them. No handoffs, no translation loss between design and code.
+<sub>📬 <a href="mailto:abdirhmansharmarke@gmail.com">abdirhmansharmarke@gmail.com</a> &nbsp;·&nbsp; 🔗 <a href="https://abdirhman.com">abdirhman.com</a></sub>
 
-- 📱 &nbsp;Ship native-feel apps for **iOS & Android**
-- 🌐 &nbsp;Build fast, modern web apps with **Next.js & React**
-- ☁️ &nbsp;Architect and deploy on **AWS, GCP & Supabase**
-- 🗄️ &nbsp;Design schemas & real-time systems on **PostgreSQL**
-- 🚀 &nbsp;Ship & own production systems at **Astaan**
-
-</td>
-<td width="45%" valign="top">
-
-### 🎯 Currently
-
-> Shipping production-ready systems from one codebase, at **Astaan**.
-
-**Core stack**
-
-`React Native` `Next.js` `Node.js` `PostgreSQL` `AWS`
-
-**Get in touch**
-
-📬 [abdirhmansharmarke@gmail.com](mailto:abdirhmansharmarke@gmail.com)
-🔗 [abdirhman.com](https://abdirhman.com)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
