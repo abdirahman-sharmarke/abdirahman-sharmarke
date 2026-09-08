@@ -22,27 +22,21 @@
 
 <br/>
 
-```ts
-const engineer = {
-  name: "Abdirahman Sharmarke",
-  role: "Full-Stack & Mobile Engineer",
-  company: "Astaan",
-  location: "Mogadishu, Somalia 🇸🇴",
-  stack: {
-    mobile: ["React Native", "Expo", "Flutter", "Swift", "Kotlin"],
-    web: ["Next.js", "React", "TypeScript", "Node.js", "TailwindCSS"],
-    cloud: ["AWS", "GCP", "Supabase", "Docker"],
-  },
-  currentFocus: "shipping production-ready systems from one codebase",
-  reachMe: "abdirhmansharmarke@gmail.com",
-};
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/Name-Abdirahman%20Sharmarke-FE4E01?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Role-Full--Stack%20%26%20Mobile%20Engineer-FE4E01?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Company-Astaan-FE4E01?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Location-Mogadishu%2C%20Somalia%20🇸🇴-FE4E01?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Email-abdirhmansharmarke%40gmail.com-FE4E01?style=flat-square&labelColor=000000&logo=gmail&logoColor=white" />
+
+</div>
 
 <br/>
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ### ⚡ What I do
 
@@ -55,17 +49,20 @@ I design, build, and ship end-to-end products — native mobile apps, modern web
 - 🚀 &nbsp;Ship & own production systems at **Astaan**
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
-### 🧭 Snapshot
+### 🎯 Currently
 
-| | |
-|---|---|
-| 🎯 **Role** | Full-Stack & Mobile Engineer |
-| 🏢 **Company** | Astaan |
-| 📍 **Location** | Mogadishu, Somalia |
-| 📬 **Email** | abdirhmansharmarke@gmail.com |
-| 🔗 **Site** | [abdirhman.com](https://abdirhman.com) |
+> Shipping production-ready systems from one codebase, at **Astaan**.
+
+**Core stack**
+
+`React Native` `Next.js` `Node.js` `PostgreSQL` `AWS`
+
+**Get in touch**
+
+📬 [abdirhmansharmarke@gmail.com](mailto:abdirhmansharmarke@gmail.com)
+🔗 [abdirhman.com](https://abdirhman.com)
 
 </td>
 </tr>
